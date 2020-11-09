@@ -31,6 +31,6 @@
 *.out
 *.app
 
-\.idea/*
-\.vscode/*
-\build/*
+.idea/*
+.vscode/*
+build/*
